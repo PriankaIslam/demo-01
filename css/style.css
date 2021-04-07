@@ -1,0 +1,148 @@
+/*d-block w-100 */
+*{ padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+   font-family: Georgia;
+}
+html{
+	scroll-behavior: smooth;
+}
+.my-color{
+	background-color: #2E2E2E;
+}
+.menu-1{
+	border-right:1px solid #797979;
+	 border-spacing:0px 20px;
+}
+.icon{
+	float:right;
+	list-style: none;
+}
+.icon li{
+	text-decoration: none;
+	background-color: #797979;
+	padding: 5px 10px;
+	margin: 05px;
+	border-radius: 50%;
+	display: inline-block;
+
+}
+.icon a{
+	color: white;
+}
+.icon :hover{
+	background-color: tomato;
+}
+.h-c:hover{
+	padding-top: 05px;
+   border-bottom: 3px solid #0497F7;
+}
+.jumbotron{
+	padding-top: 15px !important;
+   box-shadow: 2px 6px 10px 2px #E9E9E9;
+   margin-bottom: 5px !important;
+}
+.carousel-indicators{
+	bottom: -24px;
+}
+.shaddow{
+   box-shadow: 4px 8px 10px 2px #E9E9E9;
+}
+.search-button{
+	float:right;
+}
+.read-more{
+	background-color: #039CF9;
+	color: #fff;
+	padding: 8px 25px;
+	border-radius: 5px;
+}
+.carousel-item{
+	
+	height: 450px;
+}
+.back-part{
+	min-height:550px;
+}
+.service-box{
+	min-height: 550px;
+	background-color: white;
+}
+.row{
+	max-height: 500;
+}
+.left{
+	width: 50%;
+	min-height: 230px;
+	float: left;
+	padding: 10px;
+}
+
+.right{
+	width: 50%;
+	min-height: 230px;
+	float: left;
+	padding: 10px;
+}
+
+.l-box{
+	background-color:#E0E0E0;
+	border-left: 10px solid #0099FF;
+}
+.to-day{
+	background-color: #0099FF;
+	padding: 05px 15px;
+	border-radius: 10px;
+}
+.p-tag{
+	font-size: 14px;
+}
+.a-img{
+	border:1px solid #797979;
+}
+.read{
+	 padding-left: 115px;
+}
+.colalap-icon{
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: lighter;
+}
+.link-border{
+	display: inline-block;
+	width: 230px;
+	 border:solid #2E2D2D ;
+     border-width: 0px 0px 1px 0px;
+}
+.more{
+	font-size: 10px;
+}
+.arrow{
+	color: gray;
+	padding-right: 8px;
+	font-size: 8px;
+}
+.title-tag{
+	margin-bottom:-04px;
+}
+.small-tag{
+	font-size: 12px;
+	line-height:  -28px;
+}
+.p-size {
+	font-size: 14px;
+	margin-bottom:-5px;
+}
+.text-color{
+	color:#6C757D ;
+}
+.f-color{
+	background-color:#232323;
+	margin-bottom: 15px;
+	border:1px solid #232323;
+}
+#bootstrap
+#full_done
+#Assignment-5 
+#class-5
+#RM_WD_1
